@@ -1,5 +1,9 @@
 # 创业路·价值判断 + 三区结构 — HTML 演讲稿
 
+> **TEKUMA · 深圳创业路双仓库协作**  
+> 本仓库负责 **HTML演示、网页资源与前端版本迭代**；项目内部研究、策划文本、任务和审阅在 [chuangyelu-shenzhen（Private）](https://github.com/tekuma-innovation/chuangyelu-shenzhen) 维护（需项目授权）。  
+> 请勿在两个仓库同步维护同一套 `index.html` / `assets/`。当前仓库为 **Public**，新增客户材料前先核实公开权限。
+
 ## 模板
 
 现已统一为 **TEKUMA × MLA+** scroll-snap 模板（与 `source/template-ref.html` 同族）：
